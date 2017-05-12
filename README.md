@@ -8,3 +8,5 @@ As of May 12,2017 The Deep Learning Article on Wikipedia has following issues an
 2. This article may have too many section headers dividing up its content. Please help improve the article by merging similar sections and removing unneeded subheaders. (May 2017)
 
 DeepLearning-Wikipedia is an effort to improvise this page and make deep learning more accessible for anyone with minimal understanding of the field. 
+
+The page as on May 12,2017 is stored as DeepLearning-Wikipedia and we will be making changes on top of this version. 
