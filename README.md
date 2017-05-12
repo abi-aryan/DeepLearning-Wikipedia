@@ -9,4 +9,4 @@ As of May 12,2017 The Deep Learning Article on Wikipedia has following issues an
 
 DeepLearning-Wikipedia is an effort to improvise this page and make deep learning more accessible for anyone with minimal understanding of the field. 
 
-The page as on May 12,2017 is stored as DeepLearning-Wikipedia and we will be making changes on top of this version. 
+The page as on May 12,2017 is stored as DeepLearning-Wikipedia.pdf and we will be making changes on top of this version.The information on this is all over the place in addition to having too many unnecessary citations to external articles and papers. 
